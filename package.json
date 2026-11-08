@@ -1,0 +1,23 @@
+{
+  "name": "clone-tabnews-ai",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidnei-junior/clone-tabnews-ai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sidnei-junior/clone-tabnews-ai/issues"
+  },
+  "homepage": "https://github.com/sidnei-junior/clone-tabnews-ai#readme",
+  "private": true,
+  "dependencies": {
+    "next": "16.2.12",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  }
+}
