@@ -5,21 +5,33 @@ body {
   justify-content: center;
   align-items: center;
   font-family: sans-serif;
+  background: #fff;
+  color: #1f2328;
 }
-blockquote {
-  margin: 0;
+main {
+  max-width: 720px;
+  padding: 2rem;
   text-align: center;
 }
-blockquote p {
-  margin: 0 0 1rem;
-  font-family: Impact, "Arial Black", sans-serif;
-  font-weight: 900;
-  font-size: 5rem;
-  text-transform: uppercase;
-  color: black;
+h1 {
+  margin: 0 0 1.5rem;
+  font-size: 3rem;
 }
-blockquote cite {
+.description {
+  margin: 0 0 2rem;
   font-size: 1.25rem;
-  font-style: italic;
-  color: gray;
+  line-height: 1.6;
+}
+.total {
+  margin: 0 0 2rem;
+  font-size: 1.125rem;
+  color: #59636e;
+}
+.total strong {
+  font-size: 2rem;
+  color: #1f2328;
+}
+a {
+  color: #0969da;
+  font-weight: bold;
 }
